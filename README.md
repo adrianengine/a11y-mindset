@@ -79,6 +79,7 @@
 ## Design Resources
 
 * [Color Safe](http://colorsafe.co/)
+* [Touch Up Reading Order tool for PDFs - Overview](https://helpx.adobe.com/acrobat/using/touch-reading-order-tool-pdfs.html) - The Touch Up Reading Order tool is intended for repairing PDFs and make them accessible
 
 ----
 
@@ -86,12 +87,6 @@
 
 * [Amara](https://www.amara.org/en/) - Captions, subtitles, and translations simplified.
 * [IBM Watson Speech to Text service](https://speech-to-text-demo.mybluemix.net/)
-
-----
-
-## PDF Accessibility
-
-* [Touch Up Reading Order tool for PDFs Overview](https://helpx.adobe.com/acrobat/using/touch-reading-order-tool-pdfs.html)
 
 ----
 
