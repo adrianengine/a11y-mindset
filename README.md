@@ -89,4 +89,10 @@
 
 ----
 
+## PDF Accessibility
+
+* [Touch Up Reading Order tool for PDFs Overview](https://helpx.adobe.com/acrobat/using/touch-reading-order-tool-pdfs.html)
+
+----
+
 More coming soon...
