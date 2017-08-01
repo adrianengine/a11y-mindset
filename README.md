@@ -23,6 +23,9 @@
 * [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
 * [Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
 * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/)
+* [Before and After Demonstration](https://www.w3.org/WAI/demos/bad/) - Improving a Web site using Web Content Accessibility Guidelines (WCAG) 2.0
+* [How to Meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/) - A customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2.0 requirements (success criteria) and techniques.
+* [WebAIM's WCAG 2.0 Checklist for HTML documents](http://webaim.org/standards/wcag/checklist)
 
 ----
 
